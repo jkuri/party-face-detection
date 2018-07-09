@@ -15,7 +15,7 @@ import (
 )
 
 var (
-	videoFile = kingpin.Flag("file", "Camera ID.").Default("./data/videos/ag.mp4").Short('f').String()
+	videoFile = kingpin.Flag("file", "Input video file.").Default("./data/videos/ag.mp4").Short('f').String()
 	modelFile = kingpin.Flag("model", "MTCNN TF model file").Default("./data/models/mtcnn.pb").Short('m').String()
 )
 

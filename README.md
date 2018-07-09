@@ -36,7 +36,7 @@ Usage: party-face-detection [<flags>]
 Flags:
       --help  Show context-sensitive help (also try --help-long and --help-man).
   -f, --file="./data/videos/ag.mp4"
-              Camera ID.
+              Input video file.
   -m, --model="./data/models/mtcnn.pb"
               MTCNN TF model file
 ```
