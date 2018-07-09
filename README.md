@@ -2,6 +2,10 @@
 
 Experiment of face detection algorithm MTCNN ported to Golang on party people highly on drugs.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/1796022/42425963-c8d4232c-8323-11e8-8a13-1fca1fbd20a1.gif">
+</p>
+
 #### Running on MacOS
 
 First, make sure you have all dependencies installed with running
@@ -41,6 +45,10 @@ Flags:
 
 Sample video is downloaded from YouTube [here](https://www.youtube.com/watch?v=4qMtqK8eTdM)
 and is from parties in Ambasada Gavioli, Slovenia that lasted in 2009.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/1796022/42425971-eb367e24-8323-11e8-9fe2-f061c92d4d4f.png">
+</p>
 
 #### License
 
